@@ -11,6 +11,16 @@
 >  使用 Simulink 把模拟的
 
 - Scada
+	- Wincc
+		- [官方wincc 7.2入门教程](https://cache.industry.siemens.com/dl/files/596/73505596/att_77660/v1/GettingStarted_en-US.pdf)
+	- MCGS
+		- 工程项目系统分析
+		- 工程立项搭建框架
+		- 设计菜单基本体系
+		- 制作动画显示画面
+		- 编写控制流程程序
+		- 完善菜单按钮功能
+		- 编写程序调试工程
 
 ## 简介
 ### 数学模型
